@@ -15,5 +15,6 @@ Per altra banda, cada un dels membres del grup s'ocuparà de la creació de dife
 
 Cada membre del grup editarà o realitzarà les modificacions que cregui oportunes a les diferents carpetes i arxius per aconseguir els resultats finals.
 
+Es pot accedir a la nostra pàgina web a través de la URL: https://janparareda.github.io/ikoja_hotels
 
 Jan, Miguel i Lluís.
